@@ -1,0 +1,14 @@
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/bin/Debug/net8.0/April2nd - Day 1
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/bin/Debug/net8.0/April2nd - Day 1.deps.json
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/bin/Debug/net8.0/April2nd - Day 1.runtimeconfig.json
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/bin/Debug/net8.0/April2nd - Day 1.dll
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/bin/Debug/net8.0/April2nd - Day 1.pdb
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.AssemblyInfoInputs.cache
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.AssemblyInfo.cs
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.csproj.CoreCompileInputs.cache
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.dll
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/refint/April2nd - Day 1.dll
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.pdb
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/April2nd - Day 1.genruntimeconfig.cache
+/Users/fred/Desktop/Learning CSHARP/April2nd - Day 1/obj/Debug/net8.0/ref/April2nd - Day 1.dll
